@@ -175,7 +175,7 @@ hr{
     column-gap: 20px;
     justify-content: space-between;
 }
-@media (max-width:1399px) {
+/* @media (max-width:1399px) {
     .content p br {
         display: none;
     }
@@ -287,4 +287,4 @@ hr{
    .content-4 .image3 img{
       margin-left: 120px;
    }
-}
+} */

@@ -288,3 +288,23 @@ hr{
       margin-left: 120px;
    }
 }
+@media (max-width:835px) {
+    .logo img{
+        margin-left: 130px;
+    }
+    .link ul li a{
+        font-size: 9px;
+    }
+    .sec1{
+       height: 300px;
+        /* height: 100vh; */
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+    .content-1 .content p{
+        font-size: 15px;
+    }
+   .content-1 .image img{
+         width: 100px;
+   }
+}

@@ -21,9 +21,8 @@ body{
     text-decoration: none;
     color: white;
 }
-.sec1{
-    background-image: url(bayc-mutant-hero.jpg);
-    height: 100vh;
+.sec1 img {
+    width: 100%;
 }
 .content-1{
     display: flex;
@@ -353,11 +352,11 @@ hr{
         font-size: 8px;
     }
 }
-@media (max-width:400px){
+  @media (max-width:400px){
      .link ul li a {
         font-size: 15px;
        
-        /* flex-direction: row; */
+        /* flex-direction: row; 
     }
     .sec1{
         width: 100%;
@@ -445,6 +444,28 @@ hr{
         flex-direction: column;
         cursor:cell
     }
-}
+    .content-7 .main .q p {
+        font-size: 8px;
+    }
+    .eight {
+        display: flex;
+        /* justify-content: space-between; */
+        flex-direction: column;
+        justify-content: space-between;
+        border-bottom: 1px solid white;
+    }
+    .eight .ek {
+        width: 100%;
+        text-align: center;
+        font-size: 18px;
+    }
+    .eight .ek img{
+        width: 80%;
+    }
+    .eight .ek p{
+        text-align: center;
+        font-size: ;
+    }
+} 
 
 

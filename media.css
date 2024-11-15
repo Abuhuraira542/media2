@@ -384,7 +384,7 @@ hr{
         font-size: 10px;
     }
     .content-1 .image img {
-        width: 50px;
+        width: 20%;
     }
     .content-2 .head #head1 {
         font-size: 15px;
@@ -465,6 +465,48 @@ hr{
     .eight .ek p{
         text-align: center;
         font-size: ;
+    }
+    .head6 h1{
+        font-size: 15px;
+        text-decoration: underline;
+    }
+    .content-6 {
+        display: flex;
+        /* justify-content: space-between; */
+        margin: 30px;
+        flex-direction: column;
+    }
+    .head6 p{
+        font-size: 12px;
+        text-align: center;
+        word-spacing: 3px;
+    }
+    .head6 .image img{
+        width: 80%;
+    }
+    .content-7 {
+        display: flex;
+        /* column-gap: 20px; */
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .content-7 .head7 h1 {
+        font-size: 15px;
+    }
+    .content-7 .main .q {
+        display: flex;
+        cursor: cell;
+        column-gap: 40px;
+    }
+    .q {
+        /* display: flex; */
+        margin: 0px 1px;
+    }
+    .content-7 .main .q h1 {
+        font-size: 10px;
+    }
+    .content-7 img {
+        width: 80%;
     }
 } 
 

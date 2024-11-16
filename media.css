@@ -509,5 +509,13 @@ hr{
         width: 80%;
     }
 } 
+    @media (min-width:300px){
+        .link ul li a {
+            font-size: 10px;
+        }
+        .sec1 img {
+            width: 200%;
+        }
+    }
 
 

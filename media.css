@@ -325,9 +325,212 @@ hr{
         font-size: 12px;
     }
 }
- Screen Size All mobile check
-@media (max-width: 575px) {
-    
+@media (max-width: 949px) {
+    .heading-3 {
+        font-size: 23px;
+    }
+    .para4 {
+        font-size: 10px;
+    }
+    .button {
+        width: 150px;
+    }
+    .button h2 {
+        font-size: 15px;
+    }
+    .link ul a {
+        font-size: 14px;
+    }
 }
+@media (max-width: 949px) {
+    .heading-3 {
+        font-size: 20px;
+    }
+    .para4 {
+        font-size: 8px;
+    }
+    .button {
+        width: 120px;
+    }
+    .button h2 {
+        font-size: 13px;
+    }
 
+}
+@media (max-width: 847px) {
+    .link ul a {
+        font-size: 10px;
+    }
+    .logo img {
+        width: 120px;
+    }
+    .head7 h1 {
+        font-size: 10px;
+    }
+    .content-7 img {
+        margin-top: 150px;
+    }
+    .content-7 img {
+        height: 250px;
+    }
+    .q p {
+        font-size: 10px;
+    }
+    .head7 p {
+        font-size: 12px;
+    }
+    .head7 h1 {
+        font-size: 15px;
+    }
+    .head6 p {
+        font-size: 11px;
+    }
+    .image img {
+        width: 85%;
+    }
+}
+@media (max-width: 767px) {
+    .para5 {
+        font-size: 9px;
+    }
+    .content-3 {
+        padding: 20px 30px;
+    }
+    .ek {
+        width: 80px;
+    }
+    .eight p {
+        font-size: 9px;
+    }
+    .eight {
+        margin: 40px;
+        column-gap: 35px;
+    }
+    body{
+        background-color: olive;
+    }
+    .content-1 .image img {
+        width: 90px;
+    }
+    .content p {
+        font-size: 25px;
+    }
+    #para1 {
+        font-size: 10px;
+    }
+    .head5 p{
+        font-size: 14px;
+    }
+    .head5 {
+        font-size: 15px;
+    }
+    .head6 p {
+        font-size: 10px;
+    }
+    .image img {
+        width: 80%;
+    }
+    .head7 h1 {
+        font-size: 15px;
+    }
+    .head7 p {
+        font-size: 12px;
+    }
+    #para3 {
+        font-size: 10px;
+        padding-top: 170px;
+    }
+    #para2 {
+        font-size: 10px;
+    }
+    .head7 p {
+        font-size: 8px;
+    }
+    .head7 h1 {
+        font-size: 10px;
+    }
+    .head7 #heady{
+        font-size: 20px;
+    }
+    .head7 p {
+        font-size: 9px;
+    }
+    .head7 h1 {
+        font-size: 9px;
+    }
+}
+@media (max-width: 700px) {
+    .link ul a {
+        font-size: 9px;
+    }
+    .logo img {
+        width: 100px;
+    }
+}
+@media (max-width: 669px) {
+    .content p {
+        font-size: 20px;
+    }
+    .content-1 .image img {
+        width: 65px;
+    }
+    #para3 {
+        font-size: 8px;
+        padding-top: 120px;
+    }
+    #para2 {
+        font-size: 8px;
+    }
+    #head2 {
+        font-size: 13px;
+    }
+    .heading-3 {
+        font-size: 16px;
+    }
+    .button {
+        width: 100px;
+    }
+    .button h2 {
+        font-size: 11px;
+    }
+    .para5 {
+        font-size: 8px;
+    }
+    .ek {
+        width: 60px;
+    }
+    .eight p {
+        font-size: 7px;
+    }
+    .content-6 {
+        display: flex;
+        flex-direction: column;
+    }
+    .content-6 .image img{
+        text-align: center;
+        width: 40%;
+        margin-left: 100px;
+    }
+    .content-7 {
+        flex-direction: column;
+    }
+    .content-7 img {
+        margin-top: 20px;
+    }
+    .content-7 img {
+        height: 280px;
+        width: 280px;
+        margin-left: 100px;
+    }
+    body{
+        background-color: seagreen;
+    }
+    .content-4 .image3 img {
+        width: 80%;
+        margin-top: 30px;
+    }
+    #head1 {
+        font-size: 25px;
+    }
+}
 
